@@ -1,0 +1,20 @@
+@charset "ISO-8859-1";
+
+#wraper{
+	background-color: aqua;
+	height: 30px;
+}
+
+table{
+	border-collapse: collapse;
+	border-bottom: 1px solid gray;
+	font-family: Tahoma, Verdanna;
+	width: 72%
+}
+
+th{
+	border-bottom: 1px solid gray;
+	background: none repeat scoll 0;
+	padding: 10px;
+	color: #FFFFFF;
+}
